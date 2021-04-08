@@ -8,7 +8,8 @@ The other one is a .c file where i explicitly create the layout and i also creat
 I have been using this layout for the last year, until i applied some case foam to better up the sound of the keyboard and now i just used the VIA layout and a white LED soldered to the caps lock.
 
 
-## On the qmk folder you will find 3 files:  
+## **QMK folder**  
+In this folder you will find the next three files:  
 **rules.mk** - Basically it just the default one, i didt change anything, i just copied from another layout.  
 **config.h** - Same as rules.mk, i just got the default one from another layout.  
 **keymap.c** - .c file where the real layout is defined.  
@@ -23,8 +24,8 @@ The second array is the layer 1 where you will find some lighting keys for the b
 
  ### **If you dont understand the keycodes, you can check them here: https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes**
 
-
-In the VIA folder you will find a json file that defines the layoyut and that you can just upload to VIA and flash the layout into your board. 
+## **VIA folder**  
+In the VIA folder you will find a json file that defines the layout and that you can just upload to VIA and flash the layout into your board. 
 In the folder you will also find a jpg of the layout which is the next one:  
 
 ## **Layer0:**  
