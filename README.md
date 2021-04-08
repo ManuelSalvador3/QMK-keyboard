@@ -12,10 +12,12 @@ I have been using this layout for the last year, until i applied some case foam 
 **rules.mk** - Basically it just the default one, i didt change anything, i just copied from another layout.  
 **config.h** - Same as rules.mk, i just got the default one from another layout.  
 **keymap.c** - .c file where the real layout is defined.  
-The first array you will find in keymap.c is the layer 0 where all the normal keys are located and where the only difference is the far right column where i have media keys to Play/Pause, Previous, Next and Delete.  
+The first array you will find in keymap.c is the layer 0 where all the normal keys are located and where the only difference is the far right column where i have media keys to Play/Pause, Previous, Next and Delete.
+## **Layer0:** 
 ![layer0](https://user-images.githubusercontent.com/27558633/114104980-2cf5f900-98cc-11eb-9142-8606ae44dfad.PNG)  
 
-The second array is the layer 1 where you will find some lighting keys for the brightness, Hue, On/Off and some different modes like breathing etc.  
+The second array is the layer 1 where you will find some lighting keys for the brightness, Hue, On/Off and some different modes like breathing etc.
+## **Layer1:**  
 ![layer1](https://user-images.githubusercontent.com/27558633/114104992-31221680-98cc-11eb-8a96-e92a4a89a920.PNG)
 
 
