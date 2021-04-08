@@ -17,4 +17,11 @@ The second array is the layer 1 where you will find some lighting keys for the b
 If you dont understand the keycodes, you can check them here: https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes
 
 
-In the VIA folder you will find a json file that defines the layoyut and that you can just upload to VIA and flash the layout into your board.  
+In the VIA folder you will find a json file that defines the layoyut and that you can just upload to VIA and flash the layout into your board. 
+In the folder you will also find a jpg of the layout which is the next one:  
+
+Layer0:
+
+
+Layer1:  
+
